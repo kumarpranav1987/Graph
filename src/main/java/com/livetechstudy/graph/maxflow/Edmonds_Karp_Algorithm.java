@@ -5,6 +5,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //https://practice.geeksforgeeks.org/problems/find-the-maximum-flow/0
+//https://www.topcoder.com/community/competitive-programming/tutorials/maximum-flow-section-1/
 public class Edmonds_Karp_Algorithm {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
